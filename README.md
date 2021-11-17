@@ -3,6 +3,7 @@ Terraform enables you to safely and predictably create, change, and improve infr
 
 In this lab, you create a Terraform configuration with a module to automate the deployment of Google Cloud infrastructure. Specifically, you deploy one auto mode network with a firewall rule and two VM instances, as shown in this diagram:
 
+![Image of Sample](diagram.png?raw=true)
 
 Using the files in order to deploy with those simple commands:
 ```script
