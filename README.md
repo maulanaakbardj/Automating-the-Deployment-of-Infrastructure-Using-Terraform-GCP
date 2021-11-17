@@ -11,7 +11,6 @@ terraform --version
 mkdir tfinfra
 cd tfinfra/
 terraform init
-terraform init
 terraform fmt
 terraform init
 terraform plan
